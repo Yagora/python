@@ -1,2 +1,2 @@
 # python
-Just few python scripts
+Just few python projects
